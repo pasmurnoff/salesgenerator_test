@@ -178,7 +178,7 @@ while (true){
 
 
 function sendMail() {
-    $to = 'alexander.pasmurnov@yandex.ru';
+    $to = 'order@salesgenerator.pro';
     $subject = 'Сообщение с сайта';
     $message = '
                 <html>
