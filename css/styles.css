@@ -1,0 +1,13 @@
+@import "modal.css";
+@import "form.css";
+@import "images.css";
+@import "success.css";
+@import "buttons.css";
+
+body {
+    margin: 0;
+    background: white;
+    font-family: Arial;
+}
+
+

@@ -1,0 +1,28 @@
+
+.img-icons {
+    width: 300px;
+    margin-bottom: 40px;
+}
+
+.img-file {
+    width: 350px;
+}
+
+@media (min-width: 200px) and (max-width: 800px) {
+    .img-icons {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 0px;
+        order: 2;
+        margin-top: -20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .img-file {
+        max-width: 400px;
+        width: 100%;
+        order: 1;
+        margin: auto;
+    }
+}

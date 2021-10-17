@@ -1,0 +1,23 @@
+.btn {
+    position: relative;
+    width: 235px;
+    height: 50px;
+    background: #f00;
+    border-radius: 6px;
+    color: white;
+    border: 0px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+.btn:hover {
+    background: #c20c0c;
+}
+
+.btn-send img {
+    vertical-align: middle;
+    width: 30px;
+    margin-left: 15px;
+}
